@@ -86,9 +86,6 @@ TARGET_NEEDS_NETD_DIRECT_CONNECT_RULE := true
 # Power
 TARGET_USES_INTERACTION_BOOST := true
 
-# Properties
-TARGET_SYSTEM_PROP += device/samsung/msm8974-common/system.prop
-
 # Recovery
 TARGET_RECOVERY_DEVICE_DIRS += device/samsung/msm8974-common
 
